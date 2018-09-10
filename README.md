@@ -1,6 +1,9 @@
 # VerifyEditText
 带下划线的验证码输入框
 
+![screenshot](https://raw.githubusercontent.com/cirno-poi/VerifyEditText/master/picture/screenshot.gif)
+
+
 ## gradle使用：
 
 - Add it in your root build.gradle at the end of repositories:
